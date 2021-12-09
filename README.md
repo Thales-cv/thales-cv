@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, i'm Thales! 👋
 
-<!--
-**Thales-cv/thales-cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/thales-cv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thales-cv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thales-cv&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on consultant to local business 
+- 🌱 I’m currently learning about Java
+- 👯 I’m looking to collaborate on Startup
+- 🤔 I’m looking for help to start my carrer as backend developer
+- 💬 Ask me about how to fly a cessna on Flight Simulator
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a Band
 -->
