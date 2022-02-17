@@ -1,6 +1,6 @@
 ### Hi there, i'm Thales! 👋
 
-- 🌱 I’m currently learning about Java
+- 🌱 I’m currently learning about Java Wweb Development
 - ⚡ Fun fact: I have a Band
 - 🥰 Lean Startup Lover
 
